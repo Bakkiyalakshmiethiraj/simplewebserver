@@ -2,7 +2,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
 <html>
-    <title> image map </title>
+    <title> Software Companies </title>
      <body>
           <table border="4" cellspacing="20" cellspacing="15">
             <caption="centre"> Top Five Generating Software Companies </caption>
